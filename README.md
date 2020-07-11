@@ -50,5 +50,5 @@ Two columns required:
 * is_late: assign value 1 if the order is late, otherwise 0.
 
 
-#### Learning Points/ Reflection:
-The algorithmn scored 0.99450 in the late submission. Possible reason for not scoring a full mark is because my team searched for the cities based on the last word in both buyer and seller addresses, and took it as the final call for the origin and destination location. We should have done a word search based on the words of the addresses.
+#### Evaluation:
+The algorithmn scored 0.99450 in the late submission.
